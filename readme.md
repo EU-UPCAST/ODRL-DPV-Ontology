@@ -1,4 +1,4 @@
-##ODRL-DPV
+## ODRL-DPV
 
 The ODRL-DPV ontology is an integration of ODRL2.2 and the OWL profile of DPV 2.1. This integration is based on the integration approach from [Pandit 2024](https://content.iospress.com/articles/semantic-web/sw243583), and updated to match the latest DPV specification. The integrated ontology contains the original ODRL and DPV ontologies with the following modifications:
 
