@@ -23,6 +23,6 @@ For the purpose of having refinements for all entities, even if no custom define
  * https://eu-upcast.github.io/vocabulary/index-en.html#isMonitoredBy
  * https://eu-upcast.github.io/vocabulary/index-en.html#hasApprovalFrom
 
-
+The main prefix used for DPV terms is `https://w3id.org/dpv/owl#`, to align with its usage in the DPV 2.2 files (https://github.com/w3c/dpv/tree/master/2.2). However we have included owl:sameAs relations tp assert the equivalence of these terms with their corresponding versions that use the `https://w3id.org/dpv#` and `https://w3id.org/dpv/dpv-owl#` prefixes.
 
 [*Pandit, H.J. and Esteves, B., 2024. Enhancing Data Use Ontology (DUO) for health-data sharing by extending it with ODRL and DPV. Semantic Web, 15(4), pp.1473-1498.*](https://content.iospress.com/articles/semantic-web/sw243583)
